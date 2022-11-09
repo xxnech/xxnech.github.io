@@ -13,10 +13,16 @@
       
       <categories>
           
-          <category> -随想 </category>
+          <category> 唠叨 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 标签4 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -32,10 +38,16 @@
       
       <categories>
           
-          <category> -学习 </category>
+          <category> 学习 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 标签3 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -51,10 +63,16 @@
       
       <categories>
           
-          <category> -生活 </category>
+          <category> 生活 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -70,10 +88,16 @@
       
       <categories>
           
-          <category> -游戏 </category>
+          <category> 游戏 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+        </tags>
       
     </entry>
     
